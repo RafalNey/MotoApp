@@ -15,3 +15,5 @@ while (stack.Count > 0)
     sum += item;
 }
 System.Console.WriteLine($"Suma: {sum}");
+
+
